@@ -28,6 +28,12 @@ h1 {
   border-radius: 1rem;
 }
 
+.button {
+  padding-left: 1%;
+  border-radius: 1rem;
+  width: auto;
+}
+
 .game {
   width: 600px;
   height: 400px;
